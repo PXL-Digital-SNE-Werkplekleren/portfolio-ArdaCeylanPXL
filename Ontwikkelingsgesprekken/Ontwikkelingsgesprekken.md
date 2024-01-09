@@ -106,29 +106,25 @@ deze tabel samengevat:
 
 ### Mijn evolutie tijdens WPL1
 
-Mijn belangrijke leermomenten van WPL1 waren de volgende:
 
+Belangrijke leermomenten van WPL1:
 
+Labomomenten bij netwerken met gebruik van Cisco's Packet Tracer-software.
+Het opzetten van een Windows-server tijdens praktische sessies.
+Sterke punten geïdentificeerd in deze semester (technische en soft skills) en gebruik:
 
 Technische skills:
 
-Mijn vermogen om IT-systemen te ontwerpen en implementeren heb ik toegepast tijdens mijn stage bij [bedrijfsnaam], waar ik actief betrokken was bij het verbeteren van het systeemontwerp.
-
-Tijdens opdrachten heb ik mijn bekwaamheid in het configureren van servers en implementeren van beveiligingsmaatregelen gedemonstreerd, waardoor ik hands-on ervaring heb opgedaan.
-
+Hardware: Samenstellen en monteren van desktops, repareren van smartphones, laptops herstellen tijdens mijn stage bij de gemeente Houthalen-Helchteren NAC.
+Besturingssystemen: Opzetten van Windows- en Linux-servers, evenals desktops. Werken met servers in mijn stage bij de gemeente.
 Soft skills:
 
-Mijn communicatieve vaardigheden heb ik aangescherpt door effectief te communiceren met teamleden en gebruikers tijdens mijn stage, wat heeft bijgedragen aan het oplossen van problemen.
+Flexibiliteit: Toonde ik tijdens diverse situaties, met name tijdens praktische taken en samenwerking.
+Samenwerken: Gebruikt bij groepsactiviteiten en projecten.
+Ontwikkelpunten voor WPL2:
 
-Het vermogen om snel problemen op te lossen en mijn probleemoplossende vaardigheden zijn ingezet tijdens real-time netwerkproblemen, wat resulteerde in een efficiënte oplossing.
-
-Dit zijn mijn ontwikkelpunten waarin ik tijdens WPL2 beter hoop te worden:
-
-(ontwikkelpunten zijn skills (technische/soft skills) waarin je beter wil worden, waarin je wil groeien)
-
-Ik wil mijn kennis van [specifieke technische vaardigheid] verbeteren door extra training en hands-on oefeningen.
-
-Het ontwikkelen van mijn leiderschapsvaardigheden staat centraal in mijn doelen, en ik hoop meer kansen te grijpen om een leidende rol op me te nemen binnen projecten tijdens WPL2.
+Kritisch denken: Streven naar het verbeteren van mijn vermogen om situaties analytisch te benaderen.
+Prioriteiten stellen: Wil ik versterken om efficiënter te kunnen werken en taken effectiever te managen.
 ## Overzicht ontwikkelingsgesprekken WPL 2
 
 ## Overzicht ontwikkelingsgesprekken WPL 3
