@@ -105,26 +105,36 @@ flankerende opleidingsonderdelen zowel als tijdens Werkplekleren.
 Je mag de volgende punten in bullets noteren maar je moet wel volledige, correct Nederlandse zinnen
 maken. Voorbeelden vind je in het voorbeeld-portfolio.
 
-Mijn belangrijke leermomenten van WPL1 waren de volgende:
-* ...
-* ...
-* ...
+### Mijn belangrijke leermomenten van WPL1 waren de volgende:
 
+Het maken van een gedetailleerde planning was een waardevol leermoment. Dit stelde me in staat om mijn tijd effectiever te beheren en georganiseerder aan opdrachten te werken.
 
-Dit zijn mijn **sterke punten** die ik deze semester heb geïdentificeerd (technische en soft skills).
-Vertel er ook bij of je ze al gebruikt hebt en zo ja, hoe.
-Technische skills:
-* ...
-* ...
+Werken met binaire getallen was een technische uitdaging waar ik veel van heb opgestoken. Het begrijpen en manipuleren van binaire systemen heeft mijn basiskennis van informatietechnologie versterkt.
 
+Samenwerken en communiceren tijdens de opdracht actualiteit was een belangrijk leermoment. Het heeft mijn vermogen om effectief in groepen te werken en ideeën te delen verbeterd.
 
-Soft skills:
-* ...
-* ...
+Dit zijn mijn sterke punten die ik deze semester heb geïdentificeerd (technische en soft skills). Vertel er ook bij of je ze al gebruikt hebt en zo ja, hoe.
 
+### Technische skills:
 
-Dit zijn mijn **ontwikkelpunten** waarin ik tijdens WPL2 beter hoop te worden:<br />
-(ontwikkelpunten zijn skills (technische/soft skills) waarin je beter wil worden, waarin je wil groeien)
-* ...
-* ...
+Probleemoplossend vermogen: Ik heb dit ingezet tijdens de netwerkenopdracht, waar ik succesvol problemen met netwerkconfiguraties heb aangepakt.
 
+Kennis van serverbeheer: Tijdens de praktische sessies heb ik mijn kennis van serverbeheer toegepast bij het opzetten van een Windows-server.
+
+Vaardigheid in werken met Cisco's Packet Tracer-software: Dit heb ik gebruikt bij de labs rond netwerken om simulaties van netwerkomgevingen te creëren.
+
+### Soft skills:
+
+Samenwerken: Tijdens de opdracht actualiteit heb ik actief samengewerkt met mijn groep, waarbij we ideeën uitwisselden en tot gezamenlijke oplossingen kwamen.
+
+Communicatievaardigheden: Het effectief communiceren van technische concepten met teamleden en docenten was essentieel tijdens labomomenten en praktische sessies.
+
+Tijdbeheer: Het opstellen van gedetailleerde planningen heeft me geholpen om mijn tijd efficiënter te beheren en deadlines te halen.
+
+### Dit zijn mijn ontwikkelpunten waarin ik tijdens WPL2 beter hoop te worden:
+
+Verdiepen in geavanceerde netwerkconfiguraties om mijn technische vaardigheden verder te ontwikkelen.
+
+Het verbeteren van mijn presentatievaardigheden om technische concepten helder en overtuigend over te brengen.
+
+Actiever bijdragen aan groepsdiscussies en leiderschapsvaardigheden ontwikkelen binnen teamprojecten.
