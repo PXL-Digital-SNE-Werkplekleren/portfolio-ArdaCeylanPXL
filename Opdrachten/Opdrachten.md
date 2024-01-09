@@ -5,21 +5,12 @@
 
 ### Overzicht van opdrachten:
 
-Netwerklaboratorium met Packet Tracer:
-
-Omschrijving: Praktische opdracht waarbij ik netwerkomgevingen heb opgezet en beheerd met behulp van Cisco's Packet Tracer-software.
-Windows Serverimplementatie:
+![image](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ArdaCeylanPXL/assets/148559409/1cb6495a-b42f-4338-8aa0-f7e1fc4656a9)
 
 
-Linux-serverconfiguratie:
-
-Omschrijving: Opdracht gericht op het opzetten en configureren van Linux-servers, inclusief de installatie van verschillende Linux-distributies op VirtualBox.
-Interessante opdrachten:
-
-De opdracht over Linux-distributies was bijzonder interessant, omdat het me de kans gaf om meer te leren over verschillende Linux-varianten en deze zelf te installeren op VirtualBox. Dit bood niet alleen hands-on ervaring, maar ook inzicht in de diversiteit van Linux-besturingssystemen.
 
 
-Wat ik heb geleerd:
+
 
 ### Power Apps:
 
