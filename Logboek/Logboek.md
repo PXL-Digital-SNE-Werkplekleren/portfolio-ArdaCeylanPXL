@@ -1,6 +1,7 @@
 # Logboek werkplekleren
 Werkplekleren is een belangrijk onderdeel in de studie van Graduaat Systemen en Netwerken.
 
+![image](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ArdaCeylanPXL/assets/148559409/ca33359d-492c-4135-b9a3-92c10600de0b)
 
 
 ## Logboek WPL 1
