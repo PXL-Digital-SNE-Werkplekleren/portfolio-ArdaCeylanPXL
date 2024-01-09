@@ -7,22 +7,25 @@
 volledige reflectie in bijlage (talenten, kernkwadranten, gastseminaries, X-factor, enz.).
 
 
-Kernkwadranten:
+### Kernkwadranten:
 
 Kernkwaliteit: Behulpzaam
+
 Valkuil: Weinig tijd voor mijn eigen dingen
+
 Uitdaging: Meer tijd voor mezelf nemen
+
 Allergie: Ondankbaarheid
 
-XPOSE (gastspreker):
+### XPOSE (gastspreker)
 
 Het was boeiend om te horen hoe de spreker, ondanks zijn uitdagingen in het begin van zijn opleiding systeem- en netwerkbeheer, uiteindelijk zijn passie vond in cybersecurity. Zijn verhaal, van een afstudeerde kok tot een zelfstandige met een eenmanszaak in de IT, is inspirerend en toont aan dat doorzettingsvermogen en passie tot grootse resultaten kunnen leiden. Zijn professionaliteit en gedrevenheid zijn bewonderenswaardig, en zijn succes laat zien dat waar een wil is, een weg is.
 
-POP-sessies:
+### POP-sessies
 
 De X-factor van de spreker kwam echt naar voren in zijn ondernemerschap en vastberadenheid om zijn eigen weg te banen in de IT-sector. Zijn verhaal illustreert hoe belangrijk het is om te blijven leren en groeien in je carrière.
 
-Carglass (gastspreker 29/11/2023):
+### Carglass (gastspreker 29/11/2023):
 
 Het hoofd van de servicedesk bij Carglass deelde waardevolle inzichten over het verbeteren van klantenservice. Zijn aanpak, gebaseerd op onderzoek en aandacht voor klantenfeedback, resulteerde in aanzienlijke verbeteringen. Zijn beknopte presentatie en focus op relevante informatie maakten het interessant en leerzaam. Zijn brede benadering van het verbeteren van de gehele werkvloer, inclusief aspecten zoals de "voice of the customer", opende mijn ogen voor de complexiteit van het optimaliseren van werkprocessen.
 
