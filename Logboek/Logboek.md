@@ -1,4 +1,7 @@
 # Logboek werkplekleren
+Werkplekleren is een belangrijk onderdeel in de studie van Graduaat Systemen en Netwerken.
+
+
 
 ## Logboek WPL 1
 
