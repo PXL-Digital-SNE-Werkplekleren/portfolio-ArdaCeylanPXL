@@ -107,28 +107,7 @@ deze tabel samengevat:
 ### Mijn evolutie tijdens WPL1
 
 
-Belangrijke leermomenten van WPL1:
 
-Labomomenten bij netwerken met gebruik van Cisco's Packet Tracer-software.
-Het opzetten van een Windows-server tijdens praktische sessies.
-Sterke punten geïdentificeerd in deze semester (technische en soft skills) en gebruik:
-
-Technische skills:
-
-Hardware: 
-
-Samenstellen en monteren van desktops, repareren van smartphones, laptops herstellen tijdens mijn stage bij de gemeente Houthalen-Helchteren NAC.
-Besturingssystemen: Opzetten van Windows- en Linux-servers, evenals desktops. Werken met servers in mijn stage bij de gemeente.
-
-Soft skills:
-
-Flexibiliteit: Toonde ik tijdens diverse situaties, met name tijdens praktische taken en samenwerking.
-Samenwerken: Gebruikt bij groepsactiviteiten en projecten.
-
-Ontwikkelpunten voor WPL2:
-
-Kritisch denken: Streven naar het verbeteren van mijn vermogen om situaties analytisch te benaderen.
-Prioriteiten stellen: Wil ik versterken om efficiënter te kunnen werken en taken effectiever te managen.
 ## Overzicht ontwikkelingsgesprekken WPL 2
 
 ## Overzicht ontwikkelingsgesprekken WPL 3
