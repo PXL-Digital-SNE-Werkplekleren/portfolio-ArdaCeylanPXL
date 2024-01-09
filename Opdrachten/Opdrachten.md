@@ -3,7 +3,7 @@
 ## Opdrachten WPL 1
 
 
-Overzicht van opdrachten:
+### Overzicht van opdrachten:
 
 Netwerklaboratorium met Packet Tracer:
 
