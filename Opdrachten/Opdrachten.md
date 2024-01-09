@@ -29,7 +29,7 @@ Verworven vaardigheden in het gebruik van Power Apps, waardoor ik in staat ben o
 
 Uitgebreide kennis van verschillende Linux-distributies en het vermogen om ze effectief te installeren en configureren op virtuele machines. Dit heeft mijn begrip van open-sourcebesturingssystemen aanzienlijk verdiept.
 
-Laad 2 of 3 resultaten van opdrachten op die je zelf het liefst deed, of waaruit je het meest leerde,
+### Laad 2 of 3 resultaten van opdrachten op die je zelf het liefst deed, of waaruit je het meest leerde,
 waarvan je vindt dat je ze wel goed hebt gedaan (je persoonlijke “best of”). Argumenteer waarom je
 deze gekozen hebt.
 
