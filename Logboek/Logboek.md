@@ -1,7 +1,7 @@
 # Logboek werkplekleren
 Werkplekleren is een belangrijk onderdeel in de studie van Graduaat Systemen en Netwerken.
 
-![](./logboek_2024-01-10_121816.png?raw=true)
+![](./logboek1.png?raw=true)
 
 
 
