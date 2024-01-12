@@ -17,7 +17,7 @@ Welke vond je interessant en waarom?
 
 Verworven vaardigheden in het gebruik van Power Apps, waardoor ik in staat ben om eenvoudige tot complexe bedrijfstoepassingen te ontwikkelen.
 
-### Linux-distributies:
+### Linux zelfstudie:
 
 Uitgebreide kennis van verschillende Linux-distributies en het vermogen om ze effectief te installeren en configureren op virtuele machines. Dit heeft mijn begrip van open-sourcebesturingssystemen aanzienlijk verdiept.
 
