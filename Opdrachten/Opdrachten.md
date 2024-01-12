@@ -5,7 +5,7 @@
 
 ### Overzicht van opdrachten:
 
-![image](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ArdaCeylanPXL/assets/148559409/1cb6495a-b42f-4338-8aa0-f7e1fc4656a9)
+![image](./Schermafbeelding_2024-01-12_031947.png.png?raw=true)
 
 
 
