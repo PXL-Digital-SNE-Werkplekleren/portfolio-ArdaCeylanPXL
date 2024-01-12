@@ -5,7 +5,7 @@
 
 ### Overzicht van opdrachten:
 
-![](./Opdrachten1.png.png?raw=true)
+![](./Opdrachten1.png?raw=true)
 
 
 
