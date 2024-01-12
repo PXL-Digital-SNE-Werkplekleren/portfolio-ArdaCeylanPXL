@@ -7,7 +7,7 @@ Werkplekleren is een belangrijk onderdeel in de studie van Graduaat Systemen en 
 
 ## Logboek WPL 1
 
-![](./logboek_2024-01-10_121938.png?raw=true)
+![](./logboek2.png?raw=true)
 
 ## Logboek WPL 2
 
