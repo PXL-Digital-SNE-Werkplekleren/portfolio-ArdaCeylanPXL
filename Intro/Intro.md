@@ -6,6 +6,6 @@ Daarnaast fungeert mijn portfolio als een praktisch hulpmiddel voor mijn coaches
 
 # persoonlijke info
 
-![](./Schermafbeelding_2024-01-12_031045.png.png?raw=true)
+![](./Schermafbeelding1.png?raw=true)
 
 ![](./Schermafbeelding_2024-01-12_031120.png.png?raw=true)
