@@ -5,7 +5,7 @@
 
 ### Overzicht van opdrachten:
 
-![](./Schermafbeelding_2024-01-12_031947.png.png?raw=true)
+![](./Schermafbeelding1.png.png?raw=true)
 
 
 
