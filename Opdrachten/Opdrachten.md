@@ -56,6 +56,9 @@ Daarnaast heb ik een monitoring tool geconfigureerd om servers en services te mo
 
 [Eindpresentatie_WPL2.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ArdaCeylanPXL/files/15471375/Eindpresentatie_WPL2.pdf)
 
+De opdracht waar ik het meest fier op ben
+[GPO WPL2.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ArdaCeylanPXL/files/15471592/GPO.WPL2.pdf)
+
 
 
 
