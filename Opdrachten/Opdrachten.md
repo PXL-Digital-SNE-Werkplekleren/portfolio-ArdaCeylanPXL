@@ -54,7 +54,10 @@ In WPL2 heb ik diverse belangrijke taken uitgevoerd om de infrastructuur en hulp
 Daarnaast heb ik een monitoring tool geconfigureerd om servers en services te monitoren en een overzichtelijk dashboard opgezet. Het vinden van een geschikte backup tool was een uitdaging, maar ik heb deze taak voorgesteld om te verdelen onder het team voor snellere afronding. Ik heb ook Group Policies (GPO's) ingesteld op de pc's en geholpen met de intranetwebsite door de CSS-code aan te passen. Gedurende het project heb ik nauw samengewerkt met mijn teamleden, waarbij we elkaar ondersteunden om alle taken efficiënt en effectief uit te voeren.
 
 
-[Uploading ITOrg2_1SNEB_Team02_Presentatie.pptx…]()
+[Eindpresentatie_WPL2.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ArdaCeylanPXL/files/15471375/Eindpresentatie_WPL2.pdf)
+
+
+
 
 
 
