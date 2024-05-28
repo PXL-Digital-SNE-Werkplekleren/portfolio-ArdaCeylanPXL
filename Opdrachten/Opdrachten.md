@@ -69,10 +69,13 @@ Opdracht: Toegang ontzeggen tot C-schijf en control panel voor elke leerling.
 
 Activiteiten:
 
-Geconfigureerd Group Policies (GPO's) om de toegang tot de C-schijf en het control panel te beperken voor elke leerling.
-Gebruik gemaakt van de Group Policy Management Console (GPMC) om de beleidsinstellingen te definiëren en toe te passen op de betreffende organisatie-eenheden (OU's).
-Getest en gecontroleerd of de beperkingen effectief waren door in te loggen als een leerlingaccount en te proberen toegang te krijgen tot de C-schijf en het control panel.
-Gedocumenteerd en gerapporteerd, inclusief eventuele problemen die zich tijdens het proces voordeden en hoe deze werden opgelost.
+- Geconfigureerd Group Policies (GPO's) om de toegang tot de C-schijf en het control panel te beperken voor elke leerling.
+
+- Gebruik gemaakt van de Group Policy Management Console (GPMC) om de beleidsinstellingen te definiëren en toe te passen op de betreffende organisatie-eenheden (OU's).
+
+- Getest en gecontroleerd of de beperkingen effectief waren door in te loggen als een leerlingaccount en te proberen toegang te krijgen tot de C-schijf en het control panel.
+
+- Gedocumenteerd en gerapporteerd, inclusief eventuele problemen die zich tijdens het proces voordeden en hoe deze werden opgelost.
 
 Resultaat:
 
