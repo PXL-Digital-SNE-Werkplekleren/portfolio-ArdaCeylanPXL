@@ -56,9 +56,27 @@ Daarnaast heb ik een monitoring tool geconfigureerd om servers en services te mo
 
 [Eindpresentatie_WPL2.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ArdaCeylanPXL/files/15471375/Eindpresentatie_WPL2.pdf)
 
-De opdracht waar ik het meest fier op ben
+Resultaat van WPL2 waar ik trots op ben:
 [GPO WPL2.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-ArdaCeylanPXL/files/15471592/GPO.WPL2.pdf)
 
+Een van de resultaten waar ik trots op ben tijdens WPL2 is het succesvol implementeren van toegangsbeperkingen tot de C-schijf en het control panel voor elke leerling. Dit was een belangrijke vereiste om de beveiliging van het systeem te waarborgen en ongeautoriseerde toegang tot gevoelige delen van het besturingssysteem te voorkomen.
+
+Extract uit het logboek:
+
+Datum: 16/05/2024
+
+Opdracht: Toegang ontzeggen tot C-schijf en control panel voor elke leerling.
+
+Activiteiten:
+
+Geconfigureerd Group Policies (GPO's) om de toegang tot de C-schijf en het control panel te beperken voor elke leerling.
+Gebruik gemaakt van de Group Policy Management Console (GPMC) om de beleidsinstellingen te definiëren en toe te passen op de betreffende organisatie-eenheden (OU's).
+Getest en gecontroleerd of de beperkingen effectief waren door in te loggen als een leerlingaccount en te proberen toegang te krijgen tot de C-schijf en het control panel.
+Gedocumenteerd en gerapporteerd, inclusief eventuele problemen die zich tijdens het proces voordeden en hoe deze werden opgelost.
+
+Resultaat:
+
+De implementatie van de toegangsbeperkingen tot de C-schijf en het control panel voor elke leerling is succesvol voltooid. Leerlingen hebben nu geen toegang meer tot de C-schijf en het control panel, waardoor de beveiliging van het systeem aanzienlijk is verbeterd.
 
 
 
