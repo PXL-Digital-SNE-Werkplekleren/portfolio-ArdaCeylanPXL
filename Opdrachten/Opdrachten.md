@@ -47,6 +47,18 @@ Leerpunten: Deze opdracht leert het begrijpen van netwerkstructuren, het oplosse
 
 ## Opdrachten WPL 2
 
+Technische Opdrachten in WPL2
+
+In WPL2 heb ik diverse belangrijke taken uitgevoerd om de infrastructuur en hulpmiddelen van onze school te verbeteren. Ik heb een Trello-account aangemaakt voor betere projectorganisatie en samenwerking, en een logo voor de school ontworpen dat past bij het imago van de school. Daarnaast heb ik gewerkt aan de naamgeving van verschillende projectonderdelen. Ik heb een Domain Controller opgezet volgens de vereisten en Linux geïnstalleerd op de computers van de leerkrachten, waarna ik een FTP-server heb geconfigureerd om hen van de nodige bestanden te voorzien. Voor mijn persoonlijke project heb ik een website opgezet in AWS door gedetailleerde stappenplannen te volgen.
+
+Daarnaast heb ik een monitoring tool geconfigureerd om servers en services te monitoren en een overzichtelijk dashboard opgezet. Het vinden van een geschikte backup tool was een uitdaging, maar ik heb deze taak voorgesteld om te verdelen onder het team voor snellere afronding. Ik heb ook Group Policies (GPO's) ingesteld op de pc's en geholpen met de intranetwebsite door de CSS-code aan te passen. Gedurende het project heb ik nauw samengewerkt met mijn teamleden, waarbij we elkaar ondersteunden om alle taken efficiënt en effectief uit te voeren.
+
+
+
+
+
+
+
 ## Opdrachten WPL 3
 
 ## Opdrachten WPL 4
