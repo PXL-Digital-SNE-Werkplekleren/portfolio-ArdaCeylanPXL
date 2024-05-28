@@ -123,6 +123,14 @@ In WPL2 hoop ik mijn kennis en vaardigheden verder te verdiepen. Ik wil meer ler
 
 ## Reflectie WPL 2
 
+Eindreflectie WPL2
+
+Tijdens WPL2 heb ik diverse taken uitgevoerd die zowel mijn technische als mijn soft skills hebben verbeterd. Ik begon met het aanmaken van een Trello-account om ons project te organiseren, wat onze samenwerking aanzienlijk verbeterde. Het ontwerpen van een schoollogo was een creatieve uitdaging die me goed afging. De naamgeving van projectonderdelen vereiste nauwkeurigheid en zorgvuldigheid. Het opzetten van een Domain Controller en het installeren van Linux op de computers van de leerkrachten verliep soepel en zonder grote problemen. Het configureren van een FTP-server was nieuw voor mij, maar ik heb het succesvol kunnen afronden door goed onderzoek te doen.
+
+Het opzetten van mijn persoonlijke website in AWS was een leerzaam proces dat me hielp beter te begrijpen hoe cloudservices werken. Het configureren van een monitoring tool om servers en services te bewaken was een grote taak, maar ik ben trots op het overzichtelijke dashboard dat ik heb opgezet. Het vinden van een geschikte backup tool was uitdagend, maar door taken te verdelen binnen het team hebben we efficiënt gewerkt. Het instellen van Group Policies (GPO's) en het helpen met de intranetwebsite versterkten mijn systeembeheer- en webontwikkelingsvaardigheden.
+
+Onze teamsamenwerking verliep vlot; we ondersteunden elkaar goed en verdeelden de taken effectief. Ik heb geleerd beter te communiceren en samen te werken met mijn teamleden, wat mijn soft skills aanzienlijk verbeterde. Technisch gezien ben ik gegroeid in het opzetten en beheren van servers, het configureren van netwerkservices, en het werken met verschillende besturingssystemen. Al met al was WPL2 een waardevolle ervaring die mijn zelfvertrouwen in zowel technische als interpersoonlijke vaardigheden heeft vergroot.
+
 ## Reflectie WPL 3
 
 ## Reflectie WPL 4
