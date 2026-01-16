@@ -102,26 +102,30 @@ Dit droeg bij aan mijn professionele groei en zelfvertrouwen.
 
 <ul>
   <li>
-    <a href="/portfolio-ArdaCeylanPXL/Opdrachten/Voorbereiding_planningsgesprek_WPL3_ArdaCeylan.pdf" target="_blank">
+    <a href="/portfolio-ArdaCeylanPXL/Opdrachten/Voorbereiding+planningsgesprek.pdf" target="_blank">
       Voorbereiding planningsgesprek (PDF)
     </a>
   </li>
+
   <li>
-    <a href="/portfolio-ArdaCeylanPXL/Opdrachten/Pitch_WPL3_ArdaCeylan.pdf" target="_blank">
+    <a href="/portfolio-ArdaCeylanPXL/Opdrachten/WPL3_Intervisie_Pitch_Ceylan_Arda(Template).pdf" target="_blank">
       Pitch (PDF)
     </a>
   </li>
+
   <li>
-    <a href="/portfolio-ArdaCeylanPXL/Opdrachten/Probleemsituatie_en_advies_WPL3_ArdaCeylan.pdf" target="_blank">
+    <a href="/portfolio-ArdaCeylanPXL/Opdrachten/ProbleemsituatieWPL3_2SNEaCeylanArda.pdf" target="_blank">
       Probleemsituatie en advies (PDF)
     </a>
   </li>
+
   <li>
-    <a href="/portfolio-ArdaCeylanPXL/Opdrachten/Naverwerking_Probleemsituatie_WPL3_ArdaCeylan.pdf" target="_blank">
+    <a href="/portfolio-ArdaCeylanPXL/Opdrachten/ProbleemsituatieWPL32SNEaCeylanArda_Naverwerking.pdf" target="_blank">
       Naverwerking probleemsituatie (PDF)
     </a>
   </li>
 </ul>
+
 
 
 ## Opdrachten WPL 4
