@@ -94,7 +94,7 @@ De uitgewerkte opdrachten voor WPL 3 zijn:
 - Voorbereiding planningsgesprek  
 - Pitch  
 - Probleemsituatie en advies  
-- Naverwerking probleemsituatie  
+- Werkkwaliteiten  
 
 Via deze opdrachten leerde ik mijn eigen handelen kritisch bekijken, mijn mening
 duidelijk verwoorden en gerichte oplossingen voorstellen.  
