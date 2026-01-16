@@ -81,11 +81,47 @@ Resultaat:
 
 De implementatie van de toegangsbeperkingen tot de C-schijf en het control panel voor elke leerling is succesvol voltooid. Leerlingen hebben nu geen toegang meer tot de C-schijf en het control panel, waardoor de beveiliging van het systeem aanzienlijk is verbeterd.
 
-
-
-
-
-
 ## Opdrachten WPL 3
+
+## Opdrachten – Intervisies WPL 3
+
+Tijdens Werkplekleren 3 nam ik deel aan verschillende intervisie-opdrachten.  
+Deze opdrachten hielpen mij om stil te staan bij mijn functioneren, mijn communicatie
+en mijn aanpak binnen een professionele IT-omgeving.
+
+De uitgewerkte opdrachten voor WPL 3 zijn:
+
+- Voorbereiding planningsgesprek  
+- Pitch  
+- Probleemsituatie en advies  
+- Naverwerking probleemsituatie  
+
+Via deze opdrachten leerde ik mijn eigen handelen kritisch bekijken, mijn mening
+duidelijk verwoorden en gerichte oplossingen voorstellen.  
+Dit droeg bij aan mijn professionele groei en zelfvertrouwen.
+
+<ul>
+  <li>
+    <a href="/portfolio-ArdaCeylanPXL/Opdrachten/Voorbereiding_planningsgesprek_WPL3_ArdaCeylan.pdf" target="_blank">
+      Voorbereiding planningsgesprek (PDF)
+    </a>
+  </li>
+  <li>
+    <a href="/portfolio-ArdaCeylanPXL/Opdrachten/Pitch_WPL3_ArdaCeylan.pdf" target="_blank">
+      Pitch (PDF)
+    </a>
+  </li>
+  <li>
+    <a href="/portfolio-ArdaCeylanPXL/Opdrachten/Probleemsituatie_en_advies_WPL3_ArdaCeylan.pdf" target="_blank">
+      Probleemsituatie en advies (PDF)
+    </a>
+  </li>
+  <li>
+    <a href="/portfolio-ArdaCeylanPXL/Opdrachten/Naverwerking_Probleemsituatie_WPL3_ArdaCeylan.pdf" target="_blank">
+      Naverwerking probleemsituatie (PDF)
+    </a>
+  </li>
+</ul>
+
 
 ## Opdrachten WPL 4
