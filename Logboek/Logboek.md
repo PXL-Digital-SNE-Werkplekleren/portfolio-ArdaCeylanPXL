@@ -21,8 +21,8 @@ Door deze taken werd ik zelfstandiger en kreeg ik meer inzicht in hoe een IT-tea
 
 <ul>
   <li>
-    <a href="/portfolio-ArdaCeylanPXL/Logboek/WPL3-Logboek_ArdaCeylan.pdf" target="_blank">
-      WPL3-Logboek_ArdaCeylan.pdf
+    <a href="/portfolio-ArdaCeylanPXL/Logboek/WPL3-Logboek_CeylanArda.pdf" target="_blank">
+      WPL3-Logboek_CeylanArda.pdf
     </a>
   </li>
 </ul>
