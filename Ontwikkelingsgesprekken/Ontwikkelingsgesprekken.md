@@ -153,7 +153,7 @@ Uit het functioneringsgesprek kreeg ik positieve feedback over mijn inzet, leerg
 Tijdens het evaluatiegesprek werd bevestigd dat ik vooruitgang heb geboekt en dat ik mijn taken steeds beter en correcter uitvoer.
 Deze feedback motiveert mij om verder te blijven groeien binnen het IT-werkveld.
 
-- [Functioneringsgesprek WPL3 (FG)](./WPL3-FG_ArdaCeylan.pdf)
-- [Evaluatiegesprek WPL3 (EG)](./WPL3-EG_ArdaCeylan.pdf)
+- [Download]( /Ontwikkelingsgesprekken/WPL3-FG_ArdaCeylan.pdf )
+- [Download]( /Ontwikkelingsgesprekken/WPL3-EG_ArdaCeylan.pdf )
 
 ## Overzicht ontwikkelingsgesprekken WPL 4
