@@ -120,5 +120,4 @@ Dit droeg bij aan mijn professionele groei en zelfvertrouwen.
   </li>
 </ul>
 
-
 ## Opdrachten WPL 4
