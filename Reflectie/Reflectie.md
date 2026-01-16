@@ -133,4 +133,29 @@ Onze teamsamenwerking verliep vlot; we ondersteunden elkaar goed en verdeelden d
 
 ## Reflectie WPL 3
 
+### Positieve punten
+
+Tijdens Werkplekleren 3 heb ik veel bijgeleerd in een echte IT-werkomgeving. Ik kon verschillende taken uitvoeren die aansluiten bij mijn opleiding. Zo hielp ik bij het aanmaken van gebruikers, het installeren van laptops, het oplossen van problemen en het opvolgen van tickets. Ik merkte dat ik taken steeds vlotter en met meer vertrouwen kon uitvoeren. Ik ben tevreden dat ik niet alleen deed wat gevraagd werd, maar ook begon mee te denken over hoe taken beter of sneller konden gebeuren.
+
+De werkomgeving ervaarde ik als positief. De sfeer binnen het team was goed en iedereen was bereid om te helpen. Ik voelde mij op mijn gemak om vragen te stellen en extra uitleg te vragen. Collega’s namen de tijd om dingen rustig uit te leggen. Dit zorgde ervoor dat ik gemotiveerd bleef en met plezier naar mijn stage ging.
+
+### Samenwerking
+
+De samenwerking met mijn werkplekcoach en collega’s verliep goed. Ik kreeg duidelijke uitleg bij nieuwe taken en voelde dat ik vertrouwen kreeg om zelfstandig te werken. Ik leerde hoe belangrijk het is om goed te communiceren met collega’s en gebruikers, bijvoorbeeld via Teams of het ticketsysteem.
+
+Een punt waar ik nog in kan verbeteren, is het duidelijker laten weten waar ik mee bezig ben. Soms was niet meteen zichtbaar hoever ik stond met een taak. Tijdens WPL4 wil ik hier meer aandacht aan geven door mijn werk beter te plannen en mijn voortgang duidelijker door te geven aan mijn collega’s.
+
+### Uitdagingen
+
+Niet alles was gemakkelijk tijdens Werkplekleren 3. Sommige technische problemen waren moeilijk om meteen op te lossen, omdat de oorzaak niet altijd duidelijk was. Ik moest leren om rustig te blijven en stap voor stap te zoeken naar een oplossing. Taken rond servers en rechten vroegen extra aandacht, omdat fouten hier snel gevolgen kunnen hebben.
+
+Voor WPL4 wil ik hier beter in worden door vooraf meer na te denken over mijn aanpak en mijn stappen beter te controleren. Het samen bespreken van moeilijke problemen met mijn werkplekcoach zou mij helpen om hier nog sterker in te worden.
+
+### Vooruitblik
+
+In de toekomst wil ik nog meer bijleren over automatisering, servers en het beheren van systemen. Vooral werken met scripts vind ik interessant, omdat dit helpt om taken sneller en makkelijker te maken. Ook wil ik blijven werken aan duidelijke uitleg en documentatie, zodat anderen mijn werk goed kunnen begrijpen.
+
+Mijn sterke punten zijn dat ik gemotiveerd ben, graag bijleer en graag problemen oplos. Tijdens WPL4 wil ik deze eigenschappen nog meer gebruiken door zelfstandiger te werken en extra verantwoordelijkheid op te nemen. Ik wil graag meewerken aan taken zoals het klaarzetten van nieuwe laptops, het helpen van nieuwe medewerkers en het oplossen van moeilijkere technische problemen, omdat ik daar veel uit leer.
+
+
 ## Reflectie WPL 4
