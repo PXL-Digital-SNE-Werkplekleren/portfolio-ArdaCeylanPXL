@@ -146,4 +146,12 @@ deze tabel samengevat:
 
 ## Overzicht ontwikkelingsgesprekken WPL 3
 
+Tijdens Werkplekleren 3 ben ik duidelijk gegroeid, zowel op technisch vlak als in mijn soft skills. 
+Ik heb meer praktische ervaring opgedaan in een professionele IT-omgeving en leerde zelfstandiger werken.
+Daarnaast verbeterde mijn communicatie met collega’s en gebruikers, onder andere via tickets en overlegmomenten.
+Uit het functioneringsgesprek kreeg ik positieve feedback over mijn inzet, leergierigheid en verantwoordelijkheidszin.
+Tijdens het evaluatiegesprek werd bevestigd dat ik vooruitgang heb geboekt en dat ik mijn taken steeds beter en correcter uitvoer.
+Deze feedback motiveert mij om verder te blijven groeien binnen het IT-werkveld.
+
+
 ## Overzicht ontwikkelingsgesprekken WPL 4
