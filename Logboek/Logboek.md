@@ -21,6 +21,4 @@ Door deze taken werd ik zelfstandiger en kreeg ik meer inzicht in hoe een IT-tea
 
 
 
-
-
 ## Logboek WPL4
