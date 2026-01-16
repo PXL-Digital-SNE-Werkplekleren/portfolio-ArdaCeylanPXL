@@ -19,9 +19,7 @@ Tijdens Werkplekleren 3 liep ik stage in een professionele IT-omgeving waar ik v
 
 Door deze taken werd ik zelfstandiger en kreeg ik meer inzicht in hoe een IT-team in de praktijk werkt. Ik leerde beter communiceren met collega’s en gebruikers en kreeg meer vertrouwen in mijn eigen vaardigheden.
 
-
-Logboek/WPL3-Logboek_ArdaCeylan.pdf
-
+[Logboek WPL3 (PDF)](WPL3-Logboek_ArdaCeylan.pdf)
 
 
 ## Logboek WPL4
