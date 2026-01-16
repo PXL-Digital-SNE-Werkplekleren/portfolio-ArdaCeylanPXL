@@ -153,13 +153,19 @@ Uit het functioneringsgesprek kreeg ik positieve feedback over mijn inzet, leerg
 Tijdens het evaluatiegesprek werd bevestigd dat ik vooruitgang heb geboekt en dat ik mijn taken steeds beter en correcter uitvoer.
 Deze feedback motiveert mij om verder te blijven groeien binnen het IT-werkveld.
 
-- <a href="/portfolio-ArdaCeylanPXL/Ontwikkelingsgesprekken/WPL3-FG_ArdaCeylan.pdf" target="_blank">
-  WPL3-FG_ArdaCeylan.pdf
-</a>
+<ul>
+  <li>
+    <a href="/portfolio-ArdaCeylanPXL/Ontwikkelingsgesprekken/WPL3-FG_CeylanArda.pdf" target="_blank">
+      WPL3-FG_CeylanArda.pdf
+    </a>
+  </li>
 
-- <a href="/portfolio-ArdaCeylanPXL/Ontwikkelingsgesprekken/WPL3-EG_ArdaCeylan.pdf" target="_blank">
-  WPL3-EG_ArdaCeylan.pdf
-</a>
+  <li>
+    <a href="/portfolio-ArdaCeylanPXL/Ontwikkelingsgesprekken/WPL3-EG_CeylanArda.pdf" target="_blank">
+      WPL3-EG_CeylanArda.pdf
+    </a>
+  </li>
+</ul>
 
 
 
