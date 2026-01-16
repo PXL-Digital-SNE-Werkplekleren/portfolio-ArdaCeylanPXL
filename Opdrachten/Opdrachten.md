@@ -114,18 +114,11 @@ Dit droeg bij aan mijn professionele groei en zelfvertrouwen.
   </li>
 
   <li>
-    <a href="/portfolio-ArdaCeylanPXL/Opdrachten/ProbleemsituatieWPL3_2SNEaCeylanArda.pdf" target="_blank">
+    <a href="/portfolio-ArdaCeylanPXL/Opdrachten/ProbleemsituatieWPL32SNEaCeylanArda_Naverwerking.pdf" target="_blank">
       Probleemsituatie en advies (PDF)
     </a>
   </li>
-
-  <li>
-    <a href="/portfolio-ArdaCeylanPXL/Opdrachten/ProbleemsituatieWPL32SNEaCeylanArda_Naverwerking.pdf" target="_blank">
-      Naverwerking probleemsituatie (PDF)
-    </a>
-  </li>
 </ul>
-
 
 
 ## Opdrachten WPL 4
