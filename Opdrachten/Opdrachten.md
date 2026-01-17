@@ -118,13 +118,13 @@ Dit droeg bij aan mijn professionele groei en zelfvertrouwen.
       Probleemsituatie en advies (PDF)
     </a>
   </li>
-</ul>
 
-<li>
-  <a href="/portfolio-ArdaCeylanPXL/Opdrachten/WPL3-SNE_Intervisie_Leerdoelen_Werkkwaliteiten_CeylanArda.pdf" target="_blank">
-    Werkkwaliteiten (PDF)
-  </a>
-</li>
+  <li>
+    <a href="/portfolio-ArdaCeylanPXL/Opdrachten/WPL3-SNE_Intervisie_Leerdoelen_Werkkwaliteiten_CeylanArda.pdf" target="_blank">
+      Werkkwaliteiten (PDF)
+    </a>
+  </li>
+</ul>
 
 
 
