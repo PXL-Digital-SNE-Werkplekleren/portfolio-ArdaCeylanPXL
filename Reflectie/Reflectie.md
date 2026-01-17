@@ -155,7 +155,7 @@ Voor WPL4 wil ik hier beter in worden door vooraf meer na te denken over mijn aa
 
 In de toekomst wil ik nog meer bijleren over automatisering, servers en het beheren van systemen. Vooral werken met scripts vind ik interessant, omdat dit helpt om taken sneller en makkelijker te maken. Ook wil ik blijven werken aan duidelijke uitleg en documentatie, zodat anderen mijn werk goed kunnen begrijpen.
 
-Mijn sterke punten zijn dat ik gemotiveerd ben, graag bijleer en graag problemen oplos. Tijdens WPL4 wil ik deze eigenschappen nog meer gebruiken door zelfstandiger te werken en extra verantwoordelijkheid op te nemen. Ik wil graag meewerken aan taken zoals het klaarzetten van nieuwe laptops, het helpen van nieuwe medewerkers en het oplossen van moeilijkere technische problemen, omdat ik daar veel uit leer.
+Mijn sterke punten zijn dat ik gemotiveerd ben, graag bijleer en graag problemen oplos. Tijdens WPL4 wil ik deze eigenschappen nog meer gebruiken door zelfstandiger te werken en extra verantwoordelijkheid op te nemen. Ik wil graag meewerken aan taken zoals het helpen van nieuwe medewerkers en het oplossen van moeilijkere technische problemen, omdat ik daar veel uit leer.
 
 
 ## Reflectie WPL 4
